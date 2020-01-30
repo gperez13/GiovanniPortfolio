@@ -14,7 +14,7 @@
                 </div>
 
                 <h3>
-                    Good things are underway
+                    Good things are underway!
                 </h3>
 
                 <div style="background-color: #252525; padding-top: 1rem;">
