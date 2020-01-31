@@ -7,7 +7,7 @@
             <div class="container">
                 <h1 class="title is-size-2 has-text-white">Giovanni Perez</h1> 
                 <span class="icon top-right">
-                        <a href="./GiovanniResume.pdf" rel="noopener noreferrer" target="_blank" style="color: white;" class="is-hovered"><i class="fas fa-lg fa-file-download"></i></a>
+                        <a href="./GiovanniResume.pdf" rel="noopener noreferrer" target="_blank" style="color: white;" class="is-hovered"><i class="fas fa-2x fa-file-download"></i></a>
 				</span>
             </div>
         </div> 
@@ -74,7 +74,8 @@
                                 <li>• Developed and published Outsystems components for a Fortune 500 Financial company through production</li>
                                 <li>• Adapted third-party SQL code by following relational and object-oriented models in Outsystems to build a reporting tool that renders analysis in excel format</li>
                                 <li>• Manipulated personally identifiable information (PII) using PHP to render Vue.js forms</li>
-                                <li>• Created and deployed a time tracking MVC/CRUD app using PHP, Laravel, Vue.js and Forge</li>
+                                <li>• Consulted with clients in order to communicate product updates, presented options to prioritize backlog, and clarified questions around acceptance criteria</li>
+                                <li>• Created a time-tracking MVC/CRUD app using PHP, Laravel, Vue.js and Forge</li>
                                 <li>• Performed Heuristic Analysis and Contextual Inquiry within our CX/UX practice (Higher Education)</li>
                                 <li>• Facilitated Diversity, Equity, and Inclusion workshops including new member orientations</li>
                             </ul>
@@ -168,17 +169,17 @@
         <div class="columns">
             <div class="column">
                 <div class="container">
-                    <a href="https://github.com/gperez13" rel="noopener noreferrer" target="_blank" style="color: white;" class="is-hovered"><i class="fab fa-lg fa-github"></i></a>
+                    <a href="https://github.com/gperez13" rel="noopener noreferrer" target="_blank" style="color: white;" class="is-hovered"><i class="fab fa-2x fa-github"></i></a>
                 </div>
             </div>
             <div class="column">
                 <div class="container">
-                    <a href="https://www.linkedin.com/in/gperez13/" rel="noopener noreferrer" target="_blank" style="color: white;" class="is-hovered"><i class="fab fa-lg fa-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/gperez13/" rel="noopener noreferrer" target="_blank" style="color: white;" class="is-hovered"><i class="fab fa-2x fa-linkedin"></i></a>
                 </div>
             </div>
             <div class="column">
                 <div class="container">
-                    <a href="mailto:contact.perezgio@gmail.com" rel="noopener noreferrer" target="_blank" style="color: white;" class="is-hovered"><i class="fas fa-lg fa-envelope"></i></a>
+                    <a href="mailto:contact.perezgio@gmail.com" rel="noopener noreferrer" target="_blank" style="color: white;" class="is-hovered"><i class="fas fa-2x fa-envelope"></i></a>
                 </div>
             </div>
         </div>
