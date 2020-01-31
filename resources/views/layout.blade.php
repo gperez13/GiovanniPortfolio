@@ -13,7 +13,7 @@
         <style>
             html, body {
                 background-color: #000000;
-                color: #fff;
+                /* color: #fff; */
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
                 height: 100vh;
