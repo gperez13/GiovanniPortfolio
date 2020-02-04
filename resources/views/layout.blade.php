@@ -26,6 +26,7 @@
                 display: flex;
                 justify-content: center;
             }
+            
             .top-right {
                 position: absolute;
                 right: 10px;
